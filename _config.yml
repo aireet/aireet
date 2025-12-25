@@ -5,12 +5,11 @@ author: Xuexue
 email: xuexuexue_xxx@proton.me
 
 # URL Settings
-baseurl: ""
-url: "https://github.com"
+baseurl: "/aireet"
+url: "https://aireet.github.io"
 
 # Build Settings
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
