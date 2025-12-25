@@ -1,8 +1,7 @@
 # Xuexue (aireet)
 
 ## About Me
-
-人菜瘾大，热爱开源。
+人菜瘾大
 
 ## Open Source Contributions
 
