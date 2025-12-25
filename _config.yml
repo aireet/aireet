@@ -1,0 +1,26 @@
+# Site Settings
+title: Xuexue's Blog
+description: Personal blog of aireet
+author: Xuexue
+email: xuexuexue_xxx@proton.me
+
+# URL Settings
+baseurl: ""
+url: "https://github.com"
+
+# Build Settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - .gitignore
+  - README.md
+  - CLAUDE.md
+
+# Posts Settings
+post_defaults:
+  layout: post
