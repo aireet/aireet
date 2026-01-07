@@ -15,6 +15,10 @@ title: 关于
 - [feat] incr instanceCount in once and fmt codes - #888
 - [ISSUE #876] Safely checking context in trace producer - #863
 
+### NVIDIA NVSentinel
+- feat(helm): make PodMonitor optional and configurable - #648
+- Feature/syslog runtime journal support - #649
+
 ### Istio
 - style(crane) move wg.Done to defer - #39526
 
