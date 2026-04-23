@@ -3,6 +3,13 @@
 ## About Me
 人菜瘾大
 
+## Open Source Projects
+
+#### <img src="https://img.shields.io/badge/SAC-6B46C1?style=for-the-badge&logo=kubernetes&logoColor=white" height="20" alt="SAC" /> [SAC - Sandbox Agent Cluster](https://github.com/aireet/sac)
+- Making [Claude Code](https://docs.anthropic.com/en/docs/claude-code) accessible to everyone via web browser — no CLI needed
+- Per-user isolated K8s StatefulSet, skill marketplace, collaborative knowledge base
+- Vue 3 · Go · PostgreSQL + TimescaleDB · Redis · S3 · Helm
+
 ## Open Source Contributions
 
 ### Merged Pull Requests
