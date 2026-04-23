@@ -5,10 +5,7 @@
 
 ## Open Source Projects
 
-#### <img src="https://img.shields.io/badge/SAC-6B46C1?style=for-the-badge&logo=kubernetes&logoColor=white" height="20" alt="SAC" /> [SAC - Sandbox Agent Cluster](https://github.com/aireet/sac)
-- Making [Claude Code](https://docs.anthropic.com/en/docs/claude-code) accessible to everyone via web browser — no CLI needed
-- Per-user isolated K8s StatefulSet, skill marketplace, collaborative knowledge base
-- Vue 3 · Go · PostgreSQL + TimescaleDB · Redis · S3 · Helm
+#### <img src="https://img.shields.io/badge/SAC-6B46C1?style=for-the-badge&logo=kubernetes&logoColor=white" height="20" alt="SAC" /> [SAC - Sandbox Agent Cluster](https://github.com/aireet/sac) — 让 Claude Code 通过浏览器触手可及，每人独立 K8s 环境，技能市场 + 协作知识库
 
 ## Open Source Contributions
 
