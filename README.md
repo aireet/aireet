@@ -5,7 +5,7 @@
 
 ## Open Source Projects
 
-#### <img src="https://img.shields.io/badge/SAC-6B46C1?style=for-the-badge&logo=kubernetes&logoColor=white" height="20" alt="SAC" /> [SAC - Sandbox Agent Cluster](https://github.com/aireet/sac) — 让 Claude Code 通过浏览器触手可及，每人独立 K8s 环境，技能市场 + 协作知识库
+#### <img src="https://img.shields.io/badge/SAC-6B46C1?style=for-the-badge&logo=kubernetes&logoColor=white" height="20" alt="SAC" /> [SAC - Sandbox Agent Cluster](https://github.com/aireet/sac) — Making Claude Code accessible to everyone via web browser, with per-user isolated K8s environments, skill marketplace & collaborative knowledge base
 
 ## Open Source Contributions
 
