@@ -7,10 +7,10 @@
 
 | Project | What it does |
 |---|---|
-| **[kube-bmc](https://github.com/aireet/kube-bmc)** <br> ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Server BMCs as Kubernetes resources: in-band discovery without credentials, hardware health, power control, a web dashboard, a kubectl plugin and Grafana. An MCP endpoint lets AI agents inspect and operate the servers. Its `ipmi`, `redfish` and `hardware` packages are usable on their own. |
-| **[SAC](https://github.com/aireet/sac)** <br> ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Sandbox Agent Cluster: Claude Code in the browser for everyone, with an isolated Kubernetes environment per user, a skill marketplace and a shared knowledge base. |
-| **[flashvsr-sm89-ops](https://github.com/aireet/flashvsr-sm89-ops)** <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 4K video super-resolution on a 24 GB RTX 4090: a ComfyUI FlashVSR node and a Triton/FP8 operator pack, about 1.3× faster, no CUDA build. Every number is backed by benchmark data. |
-| **[viggle-animate-workflow](https://github.com/aireet/viggle-animate-workflow)** <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Viggle-Animate in one ComfyUI node, on an INT8 checkpoint with automatic attention routing. |
+| **[kube-bmc](https://github.com/aireet/kube-bmc)** | Server BMCs as Kubernetes resources: in-band discovery without credentials, hardware health, power control, a web dashboard, a kubectl plugin and Grafana. An MCP endpoint lets AI agents inspect and operate the servers. Its `ipmi`, `redfish` and `hardware` packages are usable on their own. |
+| **[SAC](https://github.com/aireet/sac)** | Sandbox Agent Cluster: Claude Code in the browser for everyone, with an isolated Kubernetes environment per user, a skill marketplace and a shared knowledge base. |
+| **[flashvsr-sm89-ops](https://github.com/aireet/flashvsr-sm89-ops)** | 4K video super-resolution on a 24 GB RTX 4090: a ComfyUI FlashVSR node and a Triton/FP8 operator pack, about 1.3× faster, no CUDA build. Every number is backed by benchmark data. |
+| **[viggle-animate-workflow](https://github.com/aireet/viggle-animate-workflow)** | Viggle-Animate in one ComfyUI node, on an INT8 checkpoint with automatic attention routing. |
 
 ## Contributions
 
