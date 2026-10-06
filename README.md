@@ -14,11 +14,36 @@
 
 ## Contributions
 
-| Project | Merged pull requests |
-|---|---|
-| **[NVIDIA NVSentinel](https://github.com/NVIDIA/NVSentinel)** — GPU node fault remediation | Optional, configurable PodMonitor in the Helm chart ([#648](https://github.com/NVIDIA/NVSentinel/pull/648)) · syslog runtime journal support ([#649](https://github.com/NVIDIA/NVSentinel/pull/649)) |
-| **[Apache RocketMQ Client Go](https://github.com/apache/rocketmq-client-go)** | Per-consumer limit channel in pushConsumer ([#923](https://github.com/apache/rocketmq-client-go/pull/923)) · safe context checks in the trace producer ([#863](https://github.com/apache/rocketmq-client-go/pull/863)) · query not-found fix ([#886](https://github.com/apache/rocketmq-client-go/pull/886)) · instance counting ([#888](https://github.com/apache/rocketmq-client-go/pull/888)) |
-| **[Istio](https://github.com/istio/istio)** | Release the WaitGroup in a defer in crane ([#39526](https://github.com/istio/istio/pull/39526)) |
+<table>
+<tr>
+<td width="72" align="center"><img src="https://github.com/NVIDIA.png?size=96" width="48" alt="NVIDIA"></td>
+<td>
+<a href="https://github.com/NVIDIA/NVSentinel"><b>NVIDIA NVSentinel</b></a> <img src="https://img.shields.io/github/stars/NVIDIA/NVSentinel?style=flat-square&label=%E2%98%85&color=555" alt="stars" align="top"><br>
+<sub>Fault detection and remediation for GPU clusters</sub><br><br>
+<a href="https://github.com/NVIDIA/NVSentinel/pull/648"><code>#648</code></a> Make the Helm chart's PodMonitor optional and configurable<br>
+<a href="https://github.com/NVIDIA/NVSentinel/pull/649"><code>#649</code></a> Read the systemd runtime journal for syslog monitoring
+</td>
+</tr>
+<tr>
+<td width="72" align="center"><img src="https://github.com/apache.png?size=96" width="48" alt="apache"></td>
+<td>
+<a href="https://github.com/apache/rocketmq-client-go"><b>Apache RocketMQ Client Go</b></a> <img src="https://img.shields.io/github/stars/apache/rocketmq-client-go?style=flat-square&label=%E2%98%85&color=555" alt="stars" align="top"><br>
+<sub>Go client of the Apache RocketMQ messaging platform</sub><br><br>
+<a href="https://github.com/apache/rocketmq-client-go/pull/923"><code>#923</code></a> Give each push consumer its own rate-limit channel<br>
+<a href="https://github.com/apache/rocketmq-client-go/pull/863"><code>#863</code></a> Check the context safely in the trace producer<br>
+<a href="https://github.com/apache/rocketmq-client-go/pull/886"><code>#886</code></a> Fix messages not found by query<br>
+<a href="https://github.com/apache/rocketmq-client-go/pull/888"><code>#888</code></a> Count client instances once
+</td>
+</tr>
+<tr>
+<td width="72" align="center"><img src="https://github.com/istio.png?size=96" width="48" alt="istio"></td>
+<td>
+<a href="https://github.com/istio/istio"><b>Istio</b></a> <img src="https://img.shields.io/github/stars/istio/istio?style=flat-square&label=%E2%98%85&color=555" alt="stars" align="top"><br>
+<sub>Service mesh</sub><br><br>
+<a href="https://github.com/istio/istio/pull/39526"><code>#39526</code></a> Release the WaitGroup with defer in crane
+</td>
+</tr>
+</table>
 
 ## Stack
 
