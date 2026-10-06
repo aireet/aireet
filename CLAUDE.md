@@ -21,6 +21,7 @@ When setting up this project, update this file with:
 - Project architecture and structure
 - Framework and tooling choices
 - Deployment procedures
+
 ## Profile README
 
 `README.md` is the GitHub profile page. Its project and contribution cards are SVG images in
