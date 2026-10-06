@@ -19,6 +19,7 @@ exclude:
   - .gitignore
   - README.md
   - CLAUDE.md
+  - profile
 
 # Posts Settings
 post_defaults:
