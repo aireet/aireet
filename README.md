@@ -5,12 +5,24 @@
 
 ## Projects
 
-| Project | What it does |
-|---|---|
-| **[kube-bmc](https://github.com/aireet/kube-bmc)** | Server BMCs as Kubernetes resources: in-band discovery without credentials, hardware health, power control, a web dashboard, a kubectl plugin and Grafana. An MCP endpoint lets AI agents inspect and operate the servers. Its `ipmi`, `redfish` and `hardware` packages are usable on their own. |
-| **[SAC](https://github.com/aireet/sac)** | Sandbox Agent Cluster: Claude Code in the browser for everyone, with an isolated Kubernetes environment per user, a skill marketplace and a shared knowledge base. |
-| **[flashvsr-sm89-ops](https://github.com/aireet/flashvsr-sm89-ops)** | 4K video super-resolution on a 24 GB RTX 4090: a ComfyUI FlashVSR node and a Triton/FP8 operator pack, about 1.3× faster, no CUDA build. Every number is backed by benchmark data. |
-| **[viggle-animate-workflow](https://github.com/aireet/viggle-animate-workflow)** | Viggle-Animate in one ComfyUI node, on an INT8 checkpoint with automatic attention routing. |
+<table>
+<tr>
+<td width="210"><a href="https://github.com/aireet/kube-bmc"><b>kube&#8209;bmc</b></a></td>
+<td>Server BMCs as Kubernetes resources: in-band discovery without credentials, hardware health, power control, a web dashboard, a kubectl plugin and Grafana. An MCP endpoint lets AI agents inspect and operate the servers. Its <code>ipmi</code>, <code>redfish</code> and <code>hardware</code> packages are usable on their own.</td>
+</tr>
+<tr>
+<td width="210"><a href="https://github.com/aireet/sac"><b>SAC</b></a></td>
+<td>Sandbox Agent Cluster: Claude Code in the browser for everyone, with an isolated Kubernetes environment per user, a skill marketplace and a shared knowledge base.</td>
+</tr>
+<tr>
+<td width="210"><a href="https://github.com/aireet/flashvsr-sm89-ops"><b>flashvsr&#8209;sm89&#8209;ops</b></a></td>
+<td>4K video super-resolution on a 24 GB RTX 4090: a ComfyUI FlashVSR node and a Triton/FP8 operator pack, about 1.3× faster, no CUDA build. Every number is backed by benchmark data.</td>
+</tr>
+<tr>
+<td width="210"><a href="https://github.com/aireet/viggle-animate-workflow"><b>viggle&#8209;animate&#8209;workflow</b></a></td>
+<td>Viggle-Animate in one ComfyUI node, on an INT8 checkpoint with automatic attention routing.</td>
+</tr>
+</table>
 
 ## Contributions
 
